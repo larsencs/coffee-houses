@@ -2,12 +2,33 @@
     display:flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin: .5em;
+    padding: 1em;
 }
 header{
     text-align: center;
+    font-size:x-large;
+    color: #ffe7b3;
 }
 article{
     width: 30%;
-    border: 1px dotted black;
-    margin: 0em .5em;
+    border: 2px solid #ffe7b3;
+    margin: .5em .5em;
+    background-color: #937865;
+    color: #ffe7b3;
+    display:flex;
+    flex-direction: column;
 }
+a{
+    color: white;
+}
+.anchors{
+    display:flex;
+    justify-content:space-around;
+    font-size:x-large;
+
+}
+body{
+    background-color:#937865;
+}
+
