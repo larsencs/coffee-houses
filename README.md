@@ -1,4 +1,7 @@
 # Coffee Houses
 
 ### About the project
-An assignment to practice the usage of css flexbox along with some basic styling, but mostly flexbox.
+An assignment to organize data about the different coffee houses in Nashville.
+
+### Purpose
+To practice organizing data on the DOM with flexbox.
