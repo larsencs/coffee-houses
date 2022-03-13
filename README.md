@@ -1,7 +1,5 @@
-# Coffee Houses
-
-### About the project
-An assignment to organize data about the different coffee houses in Nashville.
+## About The Project
+This was an assignment given during coding bootcamp.
 
 ### Purpose
-To practice organizing data on the DOM with flexbox.
+The purpose of this assignment was to practice organizing elements on the DOM with Flexbox properties. This app displays a number of decent coffee houses in Nashville utilizing Flexbox.
